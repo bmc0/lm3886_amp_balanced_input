@@ -1,0 +1,11 @@
+A 50W@8Ω balanced-input power amp using the LM3886 chip.
+
+Directories:
+  lm3886_amp_balanced_input/    - Amplifier board (one channel)
+  lm3886_psu/                   - Power supply (2-channel version)
+  lm3886_psu_4ch/               - Power supply (4-channel version)
+  lm3886_soft_start_v2/         - Optional soft start
+
+License:
+  All works contained in this repository are released under a
+  CC BY-SA 4.0 license. Copyright (c) Michael Barbour, 2020.
